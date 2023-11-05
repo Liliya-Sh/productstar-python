@@ -1,4 +1,5 @@
 Some bold text 4
 
 More text added
->>>>>>> c5fa5d7053aad9332153f80a9f75285322575281
+
+One more line added
